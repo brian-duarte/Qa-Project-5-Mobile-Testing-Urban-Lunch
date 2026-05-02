@@ -20,7 +20,7 @@ This project involves quality assurance (QA) for Urban Lunch, a mobile applicati
 
 🔍 **Requirement Analysis:** Detailed examination of application specifications to ensure functionality meets design expectations.
 
-📝 **Test Design:** Creation of strategic checklists to cover critical interface flows and business logic
+📝 **Test Design:** Creation of strategic checklists to cover critical interface flows and business logic.
 
 📑 **Test Execution:** Functional testing performed on both emulators (configured via Android Studio) and real devices.
 
@@ -31,19 +31,22 @@ This project involves quality assurance (QA) for Urban Lunch, a mobile applicati
 <table width="100%">
 <tr>
 <td width="30%"><b>🎯 Scope</b></td>
-<td>Manual functional and UI testing, Pickup Point Selection, Item Selection and Management, Order Confirmation, Order Tracking, Error Handling and Notifications.</td>
+<td>Manual functional and UI validation on <b>Urban Lunch</b>, ordering flows, including pickup point selection, cart management, order confirmation, order tracking, error handling, and user notifications.</td>
 </tr>
+
 <tr>
 <td><b>🚫 Out of Scope</b></td>
-<td>Frontend/UI testing, automated test scripts (scripts/code), and performance/load testing.</td>
+<td>Backend database validation, API testing and test automation.</td>
 </tr>
+
 <tr>
 <td><b>✅ Entry Criteria</b></td>
-<td>Access to the <b>Apidoc</b> documentation, active server environment (TripleTen container), and functional requirements finalized.</td>
+<td>Stable APK build available, test devices configured in Android Studio, requirements and user flows documented, and test management tools accessible.</td>
 </tr>
+
 <tr>
 <td><b>🏁 Exit Criteria</b></td>
-<td>100% of designed checklists executed, all identified bugs reported in <b>Jira</b>, and final status report completed.</td>
+<td>All critical and high-priority test cases executed, all identified bugs reported in <b>Jira</b> and final status report completed.</td>
 </tr>
 </table>
 
