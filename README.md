@@ -89,6 +89,10 @@ This project involves quality assurance (QA) for Urban Lunch, a mobile applicati
 
 </details>
 
+---
+
+## 📊 Test Execution Metrics
+
 
 
 
