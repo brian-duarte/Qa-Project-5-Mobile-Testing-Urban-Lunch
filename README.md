@@ -63,27 +63,27 @@ This project involves quality assurance (QA) for Urban Lunch, a mobile applicati
 <details>
 <summary><b>🔍 Detailed Validation Coverage</b></summary>
 
-### Pickup Point Selection
+### 📍 Pickup Point Selection
 - Verified interactive map behavior.
 - Validated restaurant selection updates footer.
 - Confirmed location permission handling.
 
-### Item Selection & Cart Management
+### 🛒 Item Selection & Cart Management
 - Tested product listing display and navigation.
-- Validated increment/decrement counters (+/-).
+- Validated increment/decrement counters `+/-`.
 - Verified cart state persistence.
-- Checked "Next" button enabled/disabled logic.
+- Checked `Next` button enabled/disabled logic.
 
-### Order Confirmation
+### 🏁 Order Confirmation
 - Verified total price calculation.
 - Validated estimated delivery times.
 - Confirmed route visualization.
 
-### Order Tracking
+### 🚚 Order Tracking
 - Tested automatic status transitions.
 - Verified order notifications.
 
-### Error Handling
+### ⚠️ Error Handling
 - Validated missing geolocation alerts.
 - Tested empty cart order prevention.
 
