@@ -108,6 +108,11 @@ This project involves quality assurance (QA) for Urban Lunch, a mobile applicati
 ## 📂 Project Documentation
 [Pickup Point Selection-Checklist](https://docs.google.com/spreadsheets/d/1YnWkKYql9U87yVCmZMRTsavQFeKwf_M_UKA6BB_blK0/edit?usp=sharing)
 
+<p align="left">
+  <img src="assets/images/Pickup Selection.png" alt="Pickup Selection" width="250">
+  <p><b><i>Pickup Point Selection</i></b></p>
+</p>
+
 </details>
 
 
