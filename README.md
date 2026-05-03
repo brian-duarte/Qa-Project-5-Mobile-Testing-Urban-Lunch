@@ -93,7 +93,27 @@ This project involves quality assurance (QA) for Urban Lunch, a mobile applicati
 
 ## 📊 Test Execution Metrics
 
+<details>
+  <summary><b><i>Click here to view Design Checklist Pickup Point Selection details</i></b></summary>
 
+#### 📝 Design Checklist
+
+ | Category | Results |
+  | :--- | :---: |
+  | 🚀 **Total Tests Executed** | `52` |
+  | ✅ Passed Cases | `33` |
+  | 🐞 Failed Cases (Bugs Found) | `19` |
+  | 🚨 Critical/High Severity Defects| `6` |
+
+## 📂 Project Documentation
+[Pickup Point Selection-Checklist](https://docs.google.com/spreadsheets/d/1YnWkKYql9U87yVCmZMRTsavQFeKwf_M_UKA6BB_blK0/edit?usp=sharing)
+
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/88b8e2a2-3bdd-4f9f-9ef7-085b5040cc9e" width="90%"></video>
+  <p><b><i>🐛 Bug Alert:The `Main.Kits` endpoint fails to enforce the logical constraint, incorrectly accepting requests that include more than 30 products in a single kit.</i></b></p>
+</div>
+
+</details>
 
 
 
