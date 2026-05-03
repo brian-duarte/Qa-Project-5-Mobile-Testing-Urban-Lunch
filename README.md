@@ -58,7 +58,9 @@ This project involves quality assurance (QA) for Urban Lunch, a mobile applicati
 | 🛒 Cart Management | ✅ Covered | Counters (+/-), cart persistence, button states |
 | 🏁 Confirmation | ✅ Covered | Price calculation, delivery ETA, route map |
 | 🚚 Order Tracking | ✅ Covered | Status transitions, notifications |
+| 📦 Order Delivered | ✅ Covered | Feedback, Notifications, Page Update |
 | ⚠️ Error Handling | ✅ Covered | Geolocation alerts, empty cart prevention |
+
 
 <details>
 <summary><b>🔍 Detailed Validation Coverage</b></summary>
@@ -130,5 +132,57 @@ This project involves quality assurance (QA) for Urban Lunch, a mobile applicati
 
 ## 📂 Project Documentation
 [Cart Management-Checklist](https://docs.google.com/spreadsheets/d/1z7sV3o_vwgm2JI-ackaNUQmYjuwB3v7KMIgQuaqV4zw/edit?usp=sharing)
+
+</details>
+
+<details>
+  <summary><b><i>Click here to view Order Confirmation details</i></b></summary>
+
+#### 📝 Design Checklist
+
+ | Category | Results |
+  | :--- | :---: |
+  | 🚀 **Total Tests Executed** | `32` |
+  | ✅ Passed Cases | `27` |
+  | 🐞 Failed Cases (Bugs Found) | `5` |
+  | 🚨 Critical/High Severity Defects| `2` |
+
+## 📂 Project Documentation
+[Order Confirmation-Checklist](https://docs.google.com/spreadsheets/d/13WMYoq_ECIT8L5oDD-S0yA41PdzGWXbwni0yAwbA9Ds/edit?usp=sharing)
+
+</details>
+
+<details>
+  <summary><b><i>Click here to view Order Tracking details</i></b></summary>
+
+#### 📝 Design Checklist
+
+ | Category | Results |
+  | :--- | :---: |
+  | 🚀 **Total Tests Executed** | `36` |
+  | ✅ Passed Cases | `26` |
+  | 🐞 Failed Cases (Bugs Found) | `10` |
+  | 🚨 Critical/High Severity Defects| `7` |
+
+## 📂 Project Documentation
+[Order Tracking-Checklist](https://docs.google.com/spreadsheets/d/13chGF6Mdgt8XWk215dCtcrbYhlYWqhxpYnTU6uV3mkI/edit?usp=sharing)
+
+</details>
+
+
+<details>
+  <summary><b><i>Click here to view Order Delivered details</i></b></summary>
+
+#### 📝 Design Checklist
+
+ | Category | Results |
+  | :--- | :---: |
+  | 🚀 **Total Tests Executed** | `38` |
+  | ✅ Passed Cases | `29` |
+  | 🐞 Failed Cases (Bugs Found) | `9` |
+  | 🚨 Critical/High Severity Defects| `4` |
+
+## 📂 Project Documentation
+[Order Delivered-Checklist](https://docs.google.com/spreadsheets/d/1rKohKycEtUbjq1blHGRyFyDMU3OK8csjkcvgoHD7O2E/edit?usp=sharing)
 
 </details>
