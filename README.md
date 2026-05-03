@@ -128,7 +128,7 @@ This project involves quality assurance (QA) for Urban Lunch, a mobile applicati
   | 🚀 **Total Tests Executed** | `51` |
   | ✅ Passed Cases | `50` |
   | 🐞 Failed Cases (Bugs Found) | `1` |
-  | 🚨 Critical/High Severity Defects| `0` |
+  | 🚨 Critical/High Severity Defects| `1` |
 
 ## 📂 Project Documentation
 [Cart Management-Checklist](https://docs.google.com/spreadsheets/d/1z7sV3o_vwgm2JI-ackaNUQmYjuwB3v7KMIgQuaqV4zw/edit?usp=sharing)
