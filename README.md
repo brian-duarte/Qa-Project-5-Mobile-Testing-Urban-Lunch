@@ -94,7 +94,7 @@ This project involves quality assurance (QA) for Urban Lunch, a mobile applicati
 ## 📊 Test Execution Metrics
 
 <details>
-  <summary><b><i>Click here to view Design Checklist Pickup Point Selection details</i></b></summary>
+  <summary><b><i>Click here to view Pickup Point Selection details</i></b></summary>
 
 #### 📝 Design Checklist
 
@@ -116,5 +116,19 @@ This project involves quality assurance (QA) for Urban Lunch, a mobile applicati
 </details>
 
 
+<details>
+  <summary><b><i>Click here to view Cart Management details</i></b></summary>
 
+#### 📝 Design Checklist
 
+ | Category | Results |
+  | :--- | :---: |
+  | 🚀 **Total Tests Executed** | `51` |
+  | ✅ Passed Cases | `50` |
+  | 🐞 Failed Cases (Bugs Found) | `1` |
+  | 🚨 Critical/High Severity Defects| `0` |
+
+## 📂 Project Documentation
+[Cart Management-Checklist](https://docs.google.com/spreadsheets/d/1z7sV3o_vwgm2JI-ackaNUQmYjuwB3v7KMIgQuaqV4zw/edit?usp=sharing)
+
+</details>
