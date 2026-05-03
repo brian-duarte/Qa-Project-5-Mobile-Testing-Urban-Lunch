@@ -13,6 +13,9 @@ This project involves quality assurance (QA) for Urban Lunch, a mobile applicati
 
 ### 📂 Project Resources
 * **📋 Requirements:** [View Functional Requirements (PDF)](https://practicum-content.s3.us-west-1.amazonaws.com/new-markets/qa-sprint-5/ESP/2025/Requisitos_Urban.Lunch.pdf)
+* **🎨 UI/UX Design:**[Figma Interactive Prototype](https://www.figma.com/design/RszsxqxH6fbLfrEnfQUg6X/Urban.Lunch?node-id=0-1&p=f)
+* - 📱 [Download APK](https://practicum-content.s3.us-west-1.amazonaws.com/new-markets/qa-sprint-5/ESP/lunch_esp.apk)
+    
 
 ---
 
