@@ -243,6 +243,20 @@ Users are blocked from continuing the purchase flow after selecting items. This 
 </div>
 </details>
 
+---
+
+### ⚠️ Issues Identified
+
+<div style="background-color: #fff5f5; border-left: 5px solid #ff4444; padding: 15px; color: #333;">
+  <ul>
+    <li>"Next" button remains disabled after adding items to cart.</li>
+    <li>App fails when toggling Wi-Fi, mobile data, or airplane mode during active session.</li>
+    <li>Application state is not restored correctly after minimizing app and returning.</li>
+    <li>Estimated delivery time is not displayed on order confirmation/tracking screen.</li>
+  </ul>
+  <hr>
+  </p>
+</div>
 
 
 
