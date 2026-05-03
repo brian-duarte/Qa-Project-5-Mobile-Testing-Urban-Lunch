@@ -186,3 +186,71 @@ This project involves quality assurance (QA) for Urban Lunch, a mobile applicati
 [Order Delivered-Checklist](https://docs.google.com/spreadsheets/d/1rKohKycEtUbjq1blHGRyFyDMU3OK8csjkcvgoHD7O2E/edit?usp=sharing)
 
 </details>
+
+
+
+
+<details>
+  <summary><b><i> 🛑 Click here to view Bug Report: Adding dish to the order list details</i></b></summary>
+
+  ## 🐛 [ID:P5-2] – Critical Bug (Blocker) Adding dish to the order list, In Saucer details screen (Cart Management)
+
+* **Severity:** 🛑 **Critical** (Breaks the core conversion flow).
+* **Priority:** **High** ⬆️
+
+### 📝 Description
+"Next" button remains disabled after adding at least one item to the order list.
+
+### 🎬 Evidence & Technical Analysis
+This recording shows a blocker issue where users can add items successfully, but the "Next" button remains disabled.
+
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/823d642b-a109-4204-b632-df7e7a436135" width="75%"></video>
+</div>
+
+---
+
+### 🛠️ Bug Details (Expected vs. Actual)
+
+**Expected Result:**
+After adding at least one item, the **"Next"** button becomes enabled/active, allowing the user to continue to the order confirmation flow.
+
+**Actual Result:**
+The **"Next"** button remains disabled even after adding one or more items to the order list, preventing progression to the next screen.
+
+---
+
+**Steps to Reproduce:**
+
+1. Open the application.
+2. Navigate to the food/item selection screen.
+3. Go to Saucer details screen.
+4. Select any available product.
+5. Tap the **"+"** button to add at least one item to the cart/order list.
+6. Observe the **"Next"** button status.
+
+**Defect Impact:**
+Users are blocked from continuing the purchase flow after selecting items. This prevents order completion, directly affecting revenue generation and rendering the primary ordering flow unusable.
+
+
+### 💻 Testing Environment.
+* **Tools:** Android Studio.
+* **Device:** Android Emulator
+* **Build:** APK Test Build
+* **OS:** Linux Mint.
+
+ 
+</div>
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
