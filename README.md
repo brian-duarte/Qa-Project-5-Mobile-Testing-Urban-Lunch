@@ -1,4 +1,4 @@
-# Qa-Project-5-Mobile-Testing-Urban-Lunch
+# Mobile-Testing-Urban-Lunch
 
 <div align="center">
   <video src="https://github.com/user-attachments/assets/61b46f4a-de93-48b2-b1ba-df12cb735bea" width="90%"></video>
